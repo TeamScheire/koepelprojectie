@@ -31,13 +31,13 @@ De beamer die gebruikt werd, is een BenQ TH682ST beamer. Belangrijk voor de beam
 
 ![bolle spiegel](img/2016_Halve_bolspiegel.jpg)
 
-Een bolle spiegel wordt gebruikt voor de veiligheid in magazijnen en kan je bijvoorbeeld vinden op [www.itminterma.be](https://www.itminterma.be/veiligheid/spiegels-veiligheid/bolspiegels/halve-bolspiegel). We gebruikten die van 80cm.
+Een bolle spiegel wordt gebruikt voor de veiligheid in magazijnen en kan je bijvoorbeeld vinden op [www.itminterma.be](https://www.itminterma.be/veiligheid/spiegels-veiligheid/bolspiegels/halve-bolspiegel). We gebruikten die van 60cm.
 
 ## Dome: de koepel waarop geprojecteerd wordt
 
 ![dome met ingang](img/dome.jpg)
 
-Geert bouwde een dome en baseerde zich op de maximale hoogte van de ruimte in het RVT. Onderaan staan er referenties waarop deze plannen gebaseerd zijn.
+Geert en Maria-Cristina bouwden een dome en baseerde zich op de maximale hoogte van de ruimte in het RVT. Onderaan staan er referenties waarop deze plannen gebaseerd zijn.
 
 De dome wordt volgens de opgegeven maten exact 5 meter breed en (met sokkel) 3.20 meter hoog
 
