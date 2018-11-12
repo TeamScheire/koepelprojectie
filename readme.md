@@ -21,7 +21,7 @@ Als je er een ander gebruikt, zorg dan zeker dat het een 180° fish-eye lens is.
 
 ### Voorbeeldfilmpje:
 
-[![180° opgenomen filmpje](https://img.youtube.com/vi/IOb6fi08xEE/0.jpg)](https://www.youtube.com/watch?v=IOb6fi08xEE)
+[![180° opgenomen filmpje](https://img.youtube.com/vi/9a0trV09zew/0.jpg)](https://www.youtube.com/watch?v=9a0trV09zew)
 
 ## Beamer
 
@@ -69,7 +69,7 @@ Het maken van de plooi in het karton is best met een ietwat bot object, in ons g
 
 ### Opbouw
 
-[![180° opgenomen filmpje](https://img.youtube.com/vi/R82rSEzjcXE/0.jpg)](https://www.youtube.com/watch?v=R82rSEzjcXE)
+[![180° opgenomen filmpje](https://img.youtube.com/vi/HJOYnuBFspo/0.jpg)](https://www.youtube.com/watch?v=HJOYnuBFspo)
 
 Je hebt zeker 200 klemmen nodig om voldoende klemmen te kunnen plaatsen, wij gebruikten er ongeveer 240. (zo kan je hier en daar wat meer klemmen plaatsen).
 
